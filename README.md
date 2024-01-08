@@ -1,9 +1,6 @@
 - Hi, I’m Inayah.
-<br>
 - I’m interested in AI, ML, Robotics, Computers.
-  <br>
 - I’m currently learning HTML.
-<br>
 - How to reach me: <br><br>
              *TakaoHaruto890(Reddit)<br><br>
              *robozxerix10089(X)<br><br>
