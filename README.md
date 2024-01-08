@@ -1,10 +1,10 @@
 - Hi, I’m Inayah 
 - I’m interested in AI, ML, Robotics, Computers
 - I’m currently learning HTML
-- How to reach me
-             *TakaoHaruto890(Reddit)
-             *robozxerix10089(X)
-             *Dimitrimikhailov123789(Pinterest)
+- How to reach me <br>
+             *TakaoHaruto890(Reddit)<br>
+             *robozxerix10089(X)<br>
+             *Dimitrimikhailov123789(Pinterest)<br>
              *wilhelmwolff.4745.2 (discord)
 <!---
 Takaoharuto890/Takaoharuto890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
